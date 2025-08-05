@@ -1,0 +1,11 @@
+C:\Users\Ayush\source\repos\CalcApp\CalcApp\bin\Debug\CalcApp.exe.config
+C:\Users\Ayush\source\repos\CalcApp\CalcApp\bin\Debug\CalcApp.exe
+C:\Users\Ayush\source\repos\CalcApp\CalcApp\bin\Debug\CalcApp.pdb
+C:\Users\Ayush\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.AssemblyReference.cache
+C:\Users\Ayush\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.Calculator.resources
+C:\Users\Ayush\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.Properties.Resources.resources
+C:\Users\Ayush\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.GenerateResource.cache
+C:\Users\Ayush\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.CoreCompileInputs.cache
+C:\Users\Ayush\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.exe
+C:\Users\Ayush\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.pdb
+C:\Users\Ayush\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.exe.config

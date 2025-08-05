@@ -24,9 +24,9 @@ IDE: Visual Studio / Visual Studio Code with WinForms extension
 bash
 Copy
 Edit
-git clone https://github.com/your-username/WindowsFormsCalculator.git
+git clone https://github.com/Ayush7809/WindowsFormsCalculator.git
 cd WindowsFormsCalculator
-2. Open in Visual Studio
+3. Open in Visual Studio
 Open the .sln file in Visual Studio
 
 Restore NuGet packages if needed

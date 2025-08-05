@@ -57,7 +57,7 @@ Use CE to clear the entry
 
 💡 Example
 Expression	Result
-7 + 3	10
-15 - 5	10
-4 * 6	24
-20 / 4	5
+7 + 3	= 10 |
+15 - 5 = 10 |
+4 * 6	= 24 |
+20 / 4	= 5
